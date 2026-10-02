@@ -4,6 +4,10 @@ A supervised machine learning project developed as part of the **Microsoft Nirma
 
 This project predicts the species of an Iris flower using four flower measurements and a **Logistic Regression** classification model. The trained model is integrated into a **Streamlit web application** for interactive predictions.
 
+## 🚀 Live Demo
+
+**[🌐 Open Iris Flower Prediction App](https://iris-flower-prediction-mmxfyxnegebk6pwe48vnmv.streamlit.app/)**
+
 ## 📌 Project Highlights
 
 * **Dataset:** 150 Iris flower samples
@@ -95,3 +99,4 @@ GitHub: **[@s56874](https://github.com/s56874)**
 ---
 
 ⭐ If you find this project useful, consider giving the repository a star.
+
