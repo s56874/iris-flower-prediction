@@ -50,7 +50,7 @@ The Streamlit application allows users to enter the four flower measurements and
 
 ### Application Preview
 
-[![Streamlit Application](screenshots/streamlit_app.png)](https://iris-flower-prediction-mmxfyxnegebk6pwe48vnmv.streamlit.app/)
+[![Streamlit Application](screenshots/streamlit_app.png)
 
 ### Confusion Matrix
 
